@@ -4,18 +4,3 @@
     font-weight: 400;
     font-style: normal;
 }
-/* Estilo en el grupo*/
-.quienes,
-.destacados,
-.contacto,
-.tarjetas {
-    background-color: #020202 ;
-}
-
-#texto{
-color: #FFF !important;
-}
-/* Desplazamiento de la página*/
-html{
-    scroll-behavior: smooth;
-}
