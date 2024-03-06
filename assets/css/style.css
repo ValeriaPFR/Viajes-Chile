@@ -14,3 +14,7 @@
 #texto{
     color: #FFF !important;
 }
+/* Desplazamiento de la página*/
+html{
+    scroll-behavior: smooth;
+}
